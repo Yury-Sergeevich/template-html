@@ -1,11 +1,7 @@
-Папка для файлов препроцессора Sass.
-
-https://sass-lang.com
-
---
-
 Структура файлов:
-
+img/
+| - content
+| - icons
 sass/
 | - style.scss
 | - [другие *.scss файлы]
